@@ -31,7 +31,7 @@ _[Screenshots would be added here showing the inspector in action]_
 ### Swift Package Manager
 
 1. In Xcode, go to **File** → **Add Package Dependencies**
-2. Enter the repository URL: `https://github.com/yourusername/DevInspector.git`
+2. Enter the repository URL: `https://github.com/gokulnair2001/DevInspector.git`
 3. Select the version you want to use
 4. Click **Add Package**
 
