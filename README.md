@@ -22,10 +22,6 @@ DevInspector is a lightweight, easy-to-integrate iOS library that helps develope
 - **Non-intrusive**: Transparent overlay that doesn't interfere with app functionality
 - **Easy Integration**: Simple API with just two method calls
 
-## 📱 Screenshots
-
-_[Screenshots would be added here showing the inspector in action]_
-
 ## 🚀 Installation
 
 ### Swift Package Manager
